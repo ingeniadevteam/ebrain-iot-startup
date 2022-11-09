@@ -11,6 +11,10 @@
     "joi": "^17.4.2"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Víctor Navarro <v.navarro@camposcorporacion.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingeniadevteam/ebrain-iot-startup.git"
+  }
 }
